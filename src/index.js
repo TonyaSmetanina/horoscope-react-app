@@ -7,7 +7,7 @@ import ReactDOM from "react-dom";
 //Components always return
 function Horoscope () {
 return (
-    <table class="table table-success table-striped-columns table-hover">
+    <table className="table table-success table-striped-columns table-hover">
     <thead>
       <tr>
         <th scope="col">#</th>
